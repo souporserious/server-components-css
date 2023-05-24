@@ -1,0 +1,17 @@
+.Stack {
+  display: flex;
+  padding: 0;
+  background: pink;
+}
+
+.padding-sm {
+  padding: 1rem;
+}
+
+.padding-md {
+  padding: 2rem;
+}
+
+.padding-lg {
+  padding: 5rem;
+}

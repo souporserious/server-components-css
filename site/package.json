@@ -1,0 +1,14 @@
+{
+  "name": "site",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "design-system": "workspace:*",
+    "next": "canary",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

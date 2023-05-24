@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "turbo dev",
-    "build": "turbo build"
+    "build": "turbo build --filter=site"
   },
   "dependencies": {
     "@types/node": "^20.2.3",

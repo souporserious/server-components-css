@@ -8,7 +8,8 @@
   "types": "./src/index.ts",
   "sideEffects": false,
   "exports": {
-    "./components": "./src/index.ts"
+    "./components": "./src/index.ts",
+    "./components/*": "./src/components/*/index.ts"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

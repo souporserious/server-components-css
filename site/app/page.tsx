@@ -1,4 +1,4 @@
-import { Stack, Switch } from 'design-system'
+import { Stack, Switch } from 'design-system/components'
 
 export default function App() {
   return (

@@ -1,4 +1,4 @@
-import { Stack } from 'design-system'
+import { Stack } from 'design-system/components'
 
 export default function RootLayout({
   children,

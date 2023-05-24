@@ -8,6 +8,9 @@
     "@types/node": "^20.2.3",
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
+    "next": "canary",
+    "react": "latest",
+    "react-dom": "latest",
     "turbo": "^1.9.9",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"

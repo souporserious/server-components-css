@@ -7,7 +7,7 @@
   "type": "module",
   "sideEffects": false,
   "exports": {
-    "./components": "./src/index.ts",
+    "./components": "./src/components/index.ts",
     "./components/*": "./src/components/*/index.ts"
   },
   "typesVersions": {

@@ -1,2 +1,2 @@
-export * from './stack/index'
-export * from './switch/index'
+export * from './stack'
+export * from './switch'
